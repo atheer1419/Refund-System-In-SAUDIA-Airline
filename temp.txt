@@ -1,0 +1,6 @@
+M 3 cash SA0000000002 nofees 30000 R 30000.0 
+A 4 creditcard - nofees 11000 R 11000.0 
+Y 5 cash SA0000000005 fees 10000 R 9800.0 
+G 6 cash SA0000000006 nofees 10000 R 10000.0 
+Alsulmi 10000 cash SA0000000001 fees 10000 R 9600.0 
+Alghamdi 20000 creditcard - fees 11000 R 10800.0 

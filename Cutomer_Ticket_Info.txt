@@ -1,0 +1,6 @@
+10000, Ghada Alsulmi, First Class, 1/12/2020, USA, 03:00 PM, A12, Jeddah, 10000 SR
+20000, Atheer Alghamdi, First Class, 1/1/2021, London, 06:30 PM, B20, Jeddah, 11000 SR
+3, M, First Class, 1/12/2020, USA, 03:00 PM, A12, Jeddah, 30000 SR
+4, A, First Class, 1/5/2021, London, 06:30 PM, B20, Jeddah, 11000 SR
+5, Y, First Class, 9/12/2020, USA, 03:00 PM, A12, Jeddah, 10000 SR
+6, G, First Class, 9/7/2021, USA, 03:00 PM, A12, Jeddah, 10000 SR
